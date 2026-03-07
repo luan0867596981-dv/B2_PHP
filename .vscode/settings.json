@@ -1,0 +1,9 @@
+{
+  "intelephense.environment.includePaths": [
+    "./app",
+    "./"
+  ],
+  "intelephense.files.associations": ["*.php"],
+  "intelephense.diagnostics.undefinedTypes": false,
+  "intelephense.diagnostics.undefinedMethods": false
+}
